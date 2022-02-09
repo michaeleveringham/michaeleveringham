@@ -8,4 +8,3 @@ Hello! I'm a developer and this is my page to share personal packages and script
 
 Give me a shout! 
  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/michael-everingham-b5799716b)
- [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/LamerLink)
