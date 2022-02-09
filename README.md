@@ -1,7 +1,8 @@
-Hello! I'm a developer and this is my page to share personal packages and scripts. 
+Hello! This is my page to share personal packages and scripts. 
 
 * Skilled languages: **_Python_**, **SQL**, JavaScript
   * Favourite Python packages: Flask, Pandas, ReportLab, MatPlotLib
+* Experience: 5 years professional, 10+ educational + professional
 * Languages I dabble in: C#, C++
 * Projects I'm promoting: [ez_pdf_tables](https://github.com/LamerLink/ez_pdf_tables) and [instant_flask](https://github.com/LamerLink/instant_flask)
 * Other skills: VMware virtualization, security, robotics
