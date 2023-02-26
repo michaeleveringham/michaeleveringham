@@ -5,7 +5,7 @@ Here's me at a glance:
 * Master's Degree in Cybersecurity and Information Technology
 * Skills: **_Python_**, SQL, JavaScript, HTML/CSS
   * Favourite Python packages: Django, Flask, Pandas, ReportLab, MatPlotLib
-* Tools and knowledge: GCP, Postgres, VMware virtualization, Cybersecurity concepts, hardware
+* Tools and knowledge: GCP, Postgres, Docker, Kubernetes, VMware virtualization
 * Projects I'm promoting: [ez_pdf_tables](https://github.com/LamerLink/ez_pdf_tables) and [instant_flask](https://github.com/LamerLink/instant_flask)
 * Languages I'm interested in: Rust, C, Ruby
 
