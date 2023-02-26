@@ -1,11 +1,13 @@
 Hello! This is my page to share personal packages and scripts. 
 
-* Skilled languages: **_Python_**, **SQL**, JavaScript
-  * Favourite Python packages: Flask, Pandas, ReportLab, MatPlotLib
-* Experience: 5 years professional, 10+ educational + professional
-* Languages I dabble in: C#, C++
+Here's me at a glance:
+* Software Engineer (since 2016)
+* Master's Degree in Cybersecurity and Information Technology
+* Skills: **_Python_**, SQL, JavaScript, HTML/CSS
+  * Favourite Python packages: Django, Flask, Pandas, ReportLab, MatPlotLib
+* Tools and knowledge: GCP, Postgres, VMware virtualization, Cybersecurity concepts, hardware
 * Projects I'm promoting: [ez_pdf_tables](https://github.com/LamerLink/ez_pdf_tables) and [instant_flask](https://github.com/LamerLink/instant_flask)
-* Other skills: VMware virtualization, security, robotics
+* Languages I'm interested in: Rust, C, Ruby
 
 Give me a shout! 
  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/michael-everingham-b5799716b)
