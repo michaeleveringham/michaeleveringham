@@ -10,4 +10,4 @@ Here's me at a glance:
 * Languages I'm interested in: Rust, C, Ruby
 
 Give me a shout! 
- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/michael-everingham-b5799716b)
+ [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/michael-everingham)
