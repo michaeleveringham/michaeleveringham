@@ -6,7 +6,7 @@ Here's me at a glance:
 * Skills: **_Python_**, SQL, JavaScript, HTML/CSS
   * Favourite Python packages: Django, Flask, Pandas, ReportLab, MatPlotLib
 * Tools and knowledge: GCP, Postgres, Docker, Kubernetes, VMware virtualization
-* Projects I'm promoting: [ez_pdf_tables](https://github.com/LamerLink/ez_pdf_tables) and [instant_flask](https://github.com/LamerLink/instant_flask)
+* Projects I'm promoting: [ez_pdf_tables](https://github.com/michaeleveringham/ez_pdf_tables) and [quick_rest](https://github.com/michaeleveringham/quick_rest)
 * Languages I'm interested in: Rust, C, Ruby
 
 Give me a shout! 
