@@ -1,11 +1,12 @@
 Hello! This is my page to share personal packages and scripts. 
 
 Here's me at a glance:
-* Software Engineer (since 2016)
+* Lead Software Engineer
+  * Software Engineer since 2016
 * Master's Degree in Cybersecurity and Information Technology
 * Skills: **_Python_**, SQL, JavaScript, HTML/CSS
-  * Favourite Python packages: Django, Flask, Pandas, ReportLab, MatPlotLib
-* Tools and knowledge: GCP, Postgres, Docker, Kubernetes, VMware virtualization
+  * Favourite Python packages: Django, Playwright, Flask, Pandas, ReportLab, MatPlotLib
+* Tools and knowledge: Webscraping, GCP, Postgres, Docker, Kubernetes, VMware virtualization
 * Projects I'm promoting: [ez_pdf_tables](https://github.com/michaeleveringham/ez_pdf_tables) and [quick_rest](https://github.com/michaeleveringham/quick_rest)
 * Languages I'm interested in: Rust, C, Ruby
 
