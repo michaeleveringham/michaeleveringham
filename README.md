@@ -7,7 +7,7 @@ Here's me at a glance:
 * Skills: **_Python_**, SQL, JavaScript, HTML/CSS
   * Favourite Python packages: Playwright, Django, Flask, Pandas, ReportLab, MatPlotLib
 * Tools and knowledge: Webscraping, GCP, Postgres, Docker, Kubernetes, VMware virtualization
-* Projects I'm promoting: [CraftLink](https://github.com/michaeleveringham/CraftLink) and [quick_rest](https://github.com/michaeleveringham/quick_rest)
+* Projects I'm promoting: [drfwn_quick](https://github.com/michaeleveringham/drfwn_quick) and [CraftLink](https://github.com/michaeleveringham/CraftLink)
 * Languages I'm interested in: Rust, C, Ruby
 
 Give me a shout! 
