@@ -4,11 +4,9 @@ Here's me at a glance:
 * Lead Software Engineer
   * Software Engineer since 2016
 * Master's Degree in Cybersecurity and Information Technology
-* Skills: **_Python_**, SQL, JavaScript, HTML/CSS
-  * Favourite Python packages: Playwright, Django, Flask, Pandas, ReportLab, MatPlotLib
-* Tools and knowledge: Webscraping, GCP, Postgres, Docker, Kubernetes, VMware virtualization
-* Projects I'm promoting: [drfwn_quick](https://github.com/michaeleveringham/drfwn_quick) and [CraftLink](https://github.com/michaeleveringham/CraftLink)
-* Languages I'm interested in: Rust, C, Ruby
+* I like Python best but also like C++ and am interested in Rust.
+* Knowledge with: Webscraping, GCP, Postgres, Docker, Kubernetes, VMware virtualization
+* Projects I'm promoting: [mocr](https://github.com/michaeleveringham/mocr) and [CraftLink](https://github.com/michaeleveringham/CraftLink)
 
 Give me a shout! 
  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/michael-everingham)
