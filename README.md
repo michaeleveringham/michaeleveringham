@@ -1,7 +1,7 @@
 Hello! This is my page to share personal packages and scripts.
 
 Here's me at a glance:
-* Staff Software Engineer
+* Senior Staff Software Engineer
 * Master's in Cybersecurity
 * I specialise in browser automation and web scraping.
 * I use TypeScript, Python, and Go most, but like to explore languages, too.
